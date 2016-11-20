@@ -51,3 +51,7 @@ notatk¹ o sobie (HTML)
 e. Wszytskie nag³ówki wyrównaæ do œrodka (mo¿e byc jako general style- bo wszystkie nag³óki bêda wyœrodkowane)
 f. Generalny styl dla sekcji padding: 0 80px 100px; oraz szerokoœæ width:100%;
 g. Obrazek i article maj¹ zajmowaæ po 50% szerokoœci sekcji
+
+
+
+http://akademia108.pl/kurs-front-end/portfolio-preview.png

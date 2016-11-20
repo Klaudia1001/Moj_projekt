@@ -155,26 +155,32 @@ p {
     font-weight: 300;
        
 }
+
 /*Stopka- Start-*/
-h2#contact-header {
-    font-size: 25px;
-    text-align: left;
-    color: white;
-    font-style: 
       
 }
-footer {
-    background-color:#2D3899;
+#contact {
+    background-color: #213b50;
 }
- 
-address {
+
+#contact-header {
     text-align: left;
-    width: 50%;
-    float:left;
-    font-weight: 300;
-    line-height: 25px;
+    background-color: #213b50;
+    color:white; 
+  
     
-    
+}
+
+
+ 
+#adres {
+    text-align: left;
+    font-style: normal;
+    color:white;
+    background-color: #213b50;
+   
 }
 /*Stopka-Stop-*/
+
+       
 
