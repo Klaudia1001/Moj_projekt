@@ -20,7 +20,7 @@ c. Tworze nag³ówek (miê i nazwisko) sprawdzam w inspektorze czy poprawnie jest n
 d. Robie commita i push
 
 4. Menu nawigacyjne
-a) Menu nav z odpowiednim id
+a. Menu nav z odpowiednim id
 b. W nav lista punktowa z czterema pozycjami
 c. Zmieniam styl listy na iniline block
 d. Usuwam punktatory z listy
@@ -31,3 +31,23 @@ h. Wyrówanie pozycji w menu do prawej
 i. Usuniêcie podkreslenia pod linkami
 j. Efekt zmiany koloru po najechaniu- efekt hover- kolor bazowy
 k. Nadaje szerokoœc menu 100%
+
+5. Nag³ówek portfolio
+a. G³ówny kontener w znaczniku <header> z id main_header
+b. W glownym kontenerze zagnie¿d¿amy diva z class main-header-content
+c. Tworze dwa nag³ówki h1(Imie nazwisko) i h2 (zawód)
+d. Tworze znacznik <span> na nazwisko; bêdzie siê pojawia³ w inych elementach strony sekcja, stopka
+e. Dodaje obrazek (który wczeœniej doda³a m do galerii w pliku moj-projekt)
+wykorzystuje backgound-img, position:contain/cover (cover wype³ni ca³y element)
+posistion:center/ 
+f. Dodaje czcionkê do nag³ówka h1-Roboto
+
+6. Sekcja o mnie
+a. Tworzymy g³ówny kontener w znaczniku <section> z id about (HTML)
+b. W znaczniku section tworzymy nag³ówek (HTML)
+c. W znaczniku section dodajemy zdjêcie (HTML) w znaczniku figure
+d. W znaczniku section tworzymy <diva> lub <article>. WYbieram article z paragrafami, z krótk¹ 
+notatk¹ o sobie (HTML)
+e. Wszytskie nag³ówki wyrównaæ do œrodka (mo¿e byc jako general style- bo wszystkie nag³óki bêda wyœrodkowane)
+f. Generalny styl dla sekcji padding: 0 80px 100px; oraz szerokoœæ width:100%;
+g. Obrazek i article maj¹ zajmowaæ po 50% szerokoœci sekcji
