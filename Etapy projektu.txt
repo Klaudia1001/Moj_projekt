@@ -1,0 +1,33 @@
+Projekt portfolio
+
+1. Tworze repozytorium GIThub
+a) Klnouje repozytorium na GIThub Desktop
+b) Tworze pliki HTML i CSS
+c) Dodaje pliki do œledzenia i wysy³am do repozytorium na GitHub
+
+2.Przygotowanie dokumentu HTML
+a) bazowa struktura dokumentu
+b) Podpiêcie arkusz styli
+c) Dodanie fontów z Goole Fonts- w czêœci head
+d) Dodaje komentarze wszêdzie gdzie to mo¿liwe :)
+e) Sprawdzam czy arkusz styli jest podpiêty dodaj¹c testow¹ regu³ê background dla body #19820B
+https://color.adobe.com/pl/create/color-wheel/
+
+3.Stworzenie generalnych styli dla ody i html
+a. Zdeklarowanie bazowej czcionki
+b. Zdeklarowanie bazowego fontu
+c. Tworze nag³ówek (miê i nazwisko) sprawdzam w inspektorze czy poprawnie jest naday kolor czcionki
+d. Robie commita i push
+
+4. Menu nawigacyjne
+a) Menu nav z odpowiednim id
+b. W nav lista punktowa z czterema pozycjami
+c. Zmieniam styl listy na iniline block
+d. Usuwam punktatory z listy
+e. Ustawiamy pozycjê fixed
+f. Nadajemy background #fff
+g. Nadajemy kolor fontu w menu #1ac056
+h. Wyrówanie pozycji w menu do prawej
+i. Usuniêcie podkreslenia pod linkami
+j. Efekt zmiany koloru po najechaniu- efekt hover- kolor bazowy
+k. Nadaje szerokoœc menu 100%
